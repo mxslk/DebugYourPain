@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Understand on Debug Your Pain</title><link>http://localhost:1313/docs/main_posts/understand/</link><description>Recent content in Understand on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/main_posts/understand/index.xml" rel="self" type="application/rss+xml"/><item><title>Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="principles-of-pain">
+ Principles of Pain
+ &lt;a class="anchor" href="#principles-of-pain">#&lt;/a>
+&lt;/h1>
+&lt;hr>
+&lt;p>&lt;em>This page concisely outlines contextual information on how pain works. It does so primarily from the perspectives of computational cognitive science and evolutionary biology.&lt;/em>&lt;/p>
+&lt;h2 id="pain-is-not-a-measure-of-damage">
+ Pain is not a measure of damage
+ &lt;a class="anchor" href="#pain-is-not-a-measure-of-damage">#&lt;/a>
+&lt;/h2>
+&lt;p>Most of us naively equate pain with tissue damage. The most common view is that pain is the body&amp;rsquo;s perception of damage.
+
+&lt;link rel="stylesheet" href="http://localhost:1313/katex/katex.min.css" />
+&lt;script defer src="http://localhost:1313/katex/katex.min.js">&lt;/script>
+&lt;script defer src="http://localhost:1313/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
+ \[ \text{Tissue damage} \rightarrow \text{Pain receptors fire} \rightarrow \text{Experience of pain} \]
+&lt;/span>
+
+&lt;span>
+ \[ \text{or} \]
+&lt;/span>
+
+&lt;span>
+ \[ \text{Tissue damage} \implies \text{Pain} \]
+&lt;/span>
+&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
+ Beyond the Wrist: Debugging RSI
+ &lt;a class="anchor" href="#beyond-the-wrist-debugging-rsi">#&lt;/a>
+&lt;/h1>
+&lt;p>This is a personal essay about a period of major suffering from chronic pain I went through, and how I acquired the knowledge and skill to eventually lift me out of it.&lt;/p>
+&lt;hr>
+&lt;h2 id="a-fire-burning">
+ &lt;strong>A fire burning&lt;/strong>
+ &lt;a class="anchor" href="#a-fire-burning">#&lt;/a>
+&lt;/h2>
+&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item></channel></rss>

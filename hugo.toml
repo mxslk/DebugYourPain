@@ -1,0 +1,11 @@
+baseURL = 'https://debugyourpain.org/'
+languageCode = 'en-us'
+title = 'Debug Your Pain'
+theme = 'hugo-book'
+
+[params]
+BookTheme = 'dark'
+
+[markup.goldmark.parser.attribute]
+   title = true
+   block = true
