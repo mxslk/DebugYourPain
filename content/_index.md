@@ -5,13 +5,13 @@ purpose: Provide overview of site
 bookToc: false
 ---
 
-# Debug Your Pain
+# Home
 
-Whether you have chronic low-back pain, RSI, or carpal tunnel, this site shows you how to debug your chronic pain using a mixture of first principles and empirical evidence. 
+I spent a thousand hours experimenting with how to resolve chronic pain. I succeeded and began to teach other people. This site condenses hundreds of hours of trying different techniques, dozens of pain science papers, and the workshops I've run.
 
 **You can go from in pain and frustrated to having a clear path forward. Here's how:**
 
-## 1. Understand
+## 1. Understand the principles of pain
 
 Pain is probably not what you think it is. Grasping a more accurate model of pain is the first step towards resolution.
 
@@ -21,7 +21,7 @@ Short: [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_o
 Long: [Beyond the Wrist: Debugging RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}})
 {{< /hint >}}
 
-## 2. Practice
+## 2. Practice debugging pain
 
 Like untangling a codebase, debugging pain well requires a set of skills. You can learn these.
 
@@ -30,13 +30,10 @@ Like untangling a codebase, debugging pain well requires a set of skills. You ca
 {{< /hint >}}
 
 
-## 3. Connect 
+## 3. Find support
 
 Other people can provide helpful support in this process.
 
-To hear about workshops and new resources, [join the mailing list](https://landing.processing-pain.com/sign_up).
+To hear about workshops and new resources, [join the mailing list](https://landing.processing-pain.com/sign_up). 
 
-## 4. Contribute
-
-Have an experience you'd like to share? A fact you want to correct? Make a pull request on our [repo]().
 

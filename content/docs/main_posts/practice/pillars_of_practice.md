@@ -1,93 +1,102 @@
 ---
 weight: 2
 bookCollapseSection: false
-title: "Skills for Debugging Pain"
+title: "Pain Debugging Protocol"
 ---
 
 # Pain Debugging Protocol
 
-*A broad protocol for pain resolution*
+*Foundational skills for debugging pain.*
 
 ---
 
- so you've read the principles of pain and you're curious about putting it into action. Before beginning, you might reasonably wonder "is my pain related to some type of structural tissue damage?" The most reliable way is to first go to a professional healthcare practitioner and hear their diagnosis and suggest a treatment, then you might want to read this doc to hear about factors common to what is often called neuroplastic pain
+<!-- So you've read the Principles of Pain, and now you're curious about putting it into action. As you know, pain is a signal within a complex system. This means we have to acknowledge the many different levels of abstraction that can significantly affect the pain experience. This might be anything from the lingering memory of a back injury to how angry you get at yourself for not being more productive to the presence of toxic mold in your basement. -->
 
- Expectations.
-Expectations.
-It's crucial to understand some things about humans. We are not machines – you don't just "fix" apart. We are complex systems with nonlinear Dynamics. A small shift me, and deuce huge change in some people mediately, while it may not work for another person. You are the architect of your own experience. Rather than seeking a magical healer/device/practice, it's very helpful to assume agency and get empirical about what doesn't work for you.
-Dynamics. A small shift me, and deuce huge change in some people mediately, while it may not work for another person. You are the architect of your own experience. Rather than seeking a magical healer/device/practice, it's very helpful to assume agency and get empirical about what doesn't work for you.
-Having said that, it is fortunate that there is clinical evidence about the yeah average timelines for recovery. 
+This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging[^1]. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.
 
-Pain is a signal within a [complex system](https://en.wikipedia.org/wiki/Complex_system), and there are many factors at different levels of abstraction that can significantly affect the experience of pain. This could include anything from the lingering memory of a back injury to how angry you get at yourself for not being more productive to the presence of toxic mold in your basement.
+This protocol brings together a few high leverage principles that have been helpful in our own experience and our experience in helping others. It distills principles common to many techniques that aim to address pain and thus 'sits atop' them. We encourage you to view this as a meta-protocol that informs how you go about trying more specific practices, whether that be Pain Reprocessing Therapy or Qigong.
 
-Debugging pain is not unlike other forms of debugging[^1]. You need to adopt a patient and curious mindset. You need to understand the architecture of the system (i.e. your own principles of pain). You need to tinker, sometimes randomly, and pay close attention to how the system responds.
+[If you would like a guided walkthrough of these principles along with guided exercises, you can fill out this questionnaire and get a video a day for ten days.]
 
-This protocol does not aim to be comprehensive. Rather, it identifies a few common leverage points that yield results.
+{{< hint warning >}}
+### Rule out structural damage before you begin
+
+Prior to beginning this protocol, it's important to consider whether your condition might be closely linked to tissue damage. Although the majority of chronic pain is not directly linked to tissue damage, you may be in the minority of cases where a structural intervention is the most helpful (for instance, inflammatory pain associated with a cancerous tumor). It is very valuable to consider the doctor's assessment in light of your own hypothesis. You can combine this the [assessment criteria](https://www.painreprocessingtherapy.com/wp-content/uploads/2021/08/Appendix-Assessing-for-Neuroplastic-Pain.pdf) used in Pain Reprocessing Therapy.
+
+Nevertheless, even for people who have clearly associated tissue damage, this protocol should be helpful in association with other forms of treatment.
+
+{{< /hint >}}
+
+## 0. Set up your environment
+
+This is about preparing a space for the work to happen. It includes both your internal environment (your mindset) as well as your physical environment (your workspace) and your habits.
+
+For your mindset:
+- **You are the solution architect**. Your life is in your hands. You cannot rely on a magical device, technique, or healer. Bring your utmost care and creative problem solving ability to this and you will be richly rewarded.
+
+- **Progress is often nonlinear**. While our muscles and tendons can be understood with linear mechanics, our brains and nervous systems cannot. This means that results can be highly nonlinear. For some people, complete resolution can happen in days. For others, it can take much longer. Be open to either, while also accepting that day to day progress can vary significantly.
+
+- **Be kind to yourself**. Many people experiencing chronic pain have strong perfectionist tendencies. Self-criticism tends to be associated with an activated sympathetic nervous system and reinforce the pain catastrophizing feedback loop. Accepting and forgiving yourself is very helpful. More on this in Process Your Patterns below.
+
+For your physical environment and habits:
+
+- **Make a calm space, free of distractions**. Somewhere you won't be bothered by pets or other people. Lighting a candle can serve asa a helpful symbol that you are going to begin.
+
+- **Make your work less stressful**. If you take this process seriously, it will be your most important part-time job. Rearrange your work around this, not vice-versa. It is hard to make meaningful progress if you go to sleep dreaming of that project you should have finished by now. 
+
+- **Dedicate >30mins at a consistent time each day**. Ideally first thing in the morning.
+
+- **Stabilize diet, sleep, and exercise**. Not much more [than](https://michaelpollan.com/reviews/how-to-eat/) [the](https://sleepeducation.org/healthy-sleep/healthy-sleep-habits/) [obvious](https://www.lesswrong.com/posts/xAiMk4e7neP6Ah7FG/minimum-viable-workout-routine).
 
 
+<!-- Diagram of person, past, lightbulb, moving into world. We can divise practice in terms of addressing the i) cognitive, ii) emotive, iii) sensory components of pain , and the integration thereof into the world -->
 
-(It is worth mentioning that there are some practices especially designed for working with chronic pain. The following protocol is intended to augment those, which we refer to below.)
+## 1. Understand Pain
 
-### 0. Rule out acute interventions
+[cognitive component ref]
 
-The majority of chronic pain is not the result of structural tissue damage. 
+How we understand pain greatly affects how we percieve it. During a workout, we might willingly put ourselves through significant pain. We intuitively understand that this pain is safe, and so it isn't a problem even when we wake up bruised and sore the next day. We want to internalize something similar when it comes to chronic pain. At first the understanding may be purely conceptual but you should deepen this understanding until it *feels* clear that the pain is not due to damage and that you know how to work with the pain.
 
-Other things to consider are environmental contaminants. Data on these are poor, but there are groups of people who have reported a wide range of health problems related to environmental toxins. 
-
-
-### 1. Adopt debugging mindset
-
-- Your goal is to resolve the pain, not necessarily to find the root cause
-- 
-- Be pragmatically open-minded. The scientific community has a generally poor understanding of how various systems interact in the human body [Nutrition science is pre-paradigmatic, we don't really understand the immune system and how it interacts with the brain, etc]. 
-- Experiment broadly, minimizing cost. One common failure mode is to dismiss a low-cost 'woo' technique or practice in favor of the costly 'scientific' approach. Being pragmatically open-minded may mean trying "tapping for emotional release" for a half hour before agreeing to a $10,000 surgery.
-
-- Be kind to yourself. 
-
-- Set up your environment to support your activity. Ergonomics can help, as can screen breaks.
-
-- It may take a long time. It may be very rapid. Our expectations about what does and doesn't work often heavily mediate our experience. Individual pain resolution is difficult to predict, so being open to rapid change while not expecting it is a very helpful stance to have.
-
-
-### 1. Understand pain
-
-How we understand pain greatly affects how we percieve it. Coming to better grasp the dynamics of pain alone can significantly change your experience. The understanding at first may be largely intellectual, or 'in the head', but you should aim to internalize the knowledge so that it feels true 'in the body'. [cite: These two types of understanding are not so much a scientific claim as one that is experientially helpful. Consider the feeling of being in love versus the thought "I am in love". The thought is an intellectual understanding, whereas the feeling is what we are calling embodied].
-
-Prompts:
-- Start logging: Start a pain doc that gathers the evidence about pain in your context and start keeping track of 
+Prompts: [dropdown?]
+- Start logging: Start a pain doc that gathers the evidence about pain in your context and start keeping track of what you have attempted. Be empirical about it: write down what you think is happening with your pain, perform little experiments, and refine your hypothesis.
+- Gather intel: See the evidence page and explore, following your curiosity. Use this to inform your hypothesis of what's going on.
 - Rubber ducking: Articulate what you think is going on with your pain. What parts are you less sure about? Keep refining until it feels clear in light of the evidence we've presented
-- Gather intel: See the evidence page and explore, following your curiosity. Use this to improve your articulation of what's going on.
+- Find your 'proof of concept': there are thousands of testimonials from different types of people with different conditions. Once you find someone who has recovered who you can relate to, recovery becomes more real.
 
 
-### 2. Learn to relax the nervous system
+## 2. Process Your Patterns
 
-As we have discussed, pain is mediated by the state of our nervous system. Just as a strange shadow is far more terrifying right after a scary movie, your bodily sensations are more painful when your sympathetic nervous system is constantly activated.
+[Emotional component ref]
 
-Settling the nervous system is not unlike entering developer mode on an operating system. From this place of calm we are able to experiment and examine the system in a way that we usually cannot. In many cases, the pain no longer becomes a problem if we are able to deeply settle.
+The patterns that generate pain are often rooted in the past. These are forms of technical debt that were once but no longer useful. 
 
-There are many different practices for relaxing the nervous system. This is a domain that is poorly theorized and so it is helpful to experiment.
+It may have been once helpful to suppress anger to avoid fights in middle school, but at the workplace anger suppression may be directly linked with chronic muscle tension. Processing past patterns is often very helpful for addressing chronic pain.
+
+Processing the past includes many different sub-skills
+- *Relaxing the nervous system*. 
+Just as a strange shadow is far more terrifying right after a scary movie, your bodily sensations are more painful when your sympathetic nervous system is constantly activated. Similar to developer mode on an operating system, relaxing the nervous system allows you to experiment and problem solve in a way that you usually cannot. You may have to experiment to find the practice that works well for you. Breathwork, Progressive Relaxation, and even Tapping have been helpful for people. [We do have a particular practice that we like; you can try that here.]
+
+- *Improving interoception*
+
+Interoception is the ability to notice internal sensations. Getting better at interoception allows us to update our internalized beliefs about the pain. A very powerful practice for this is Somatic Tracking [cite: as developed and described in Pain Reprocessing Therapy], in which you gently inquire into the pain sensations. If you are able to notice the sensation aspect of the pain in a nonjudgemental way, the fear-catastrophizing loop is interrupted, and the pain 
 
 
+- *Feeling emotions*
 
-### 3. Address technical debt
+As we've mentioned, pain has a cognitive, an emotional, and a sensation component. The emotional component of chronic pain is often highly charged when emotions are repressed for a long period of time. Unfortunately, most of the time it is very difficult to know to what extent you are repressing your emotions (note: find a more neutral phrasing than repressed). One very helpful set of practices involves stopping resistance to unpleasant emotions.
 
-Pain is deeply intertwined with our emotional response. Addressing technical debt in this case means facing the emotional problems we don't want to address.
+This can be done through targeted writing prompts, guided awareness exercises, or just sitting there and feeling. [Ref. JournalSpeak Paulina Soble, Mindbody workbook Schechter] You might also consider working with a skilled therapist or coach. [cite: There is very high variance in terms of the effectiveness of the practitioner, so it may take time to find the right fit. Sources below PRT, Coherence Therapy, and of course myself and Tanner take on a small number of people.]
 
-One of the more powerful practices is to use Somatic Tracking — a technique from Pain Reprocessing Therapy where you pay attention to the pain sensations in a nonjudgmental way.
+<!-- - *Leaning into pleasure* -->
 
-Consider working with a coach or therapist. There are a small number
+## 3. Learning to move
 
-### 4. Learn to remain settled in life
+Understanding and processing are best done in a controlled environment. If you want this to extend to your daily life, it will be helpful to bring in aspects of the world. Including the factors that trigger the pain-generating feedback loop in the first place. This should be done with care, once you have capacity to do so. In our experience, it is very helpful to begin with gentle movement, then include smaller versions of the actions you wanted to perform, before finally integrating it wholly into your work life.
 
-The prior skills are helpfully done in a controlled environment, but eventually you have to face the world. This may well include the factors that trigger the pain-generating feedback loop in the first place. It is in our experience very helpful to add challenges
-
-Gentle movement with attention in our experience is very helpful here.
-
-- Resume and 
 
 ---
 
-You do not need all of these skills to resolve pain. Many people find significant resolution from education alone [one guy reported big change just from reading the comments section of a book]. But in my experience gaining facility in all these skills significantly increases agency in life and often coincides with the resolution of pain.
+You do not need all of these skills to resolve pain. Many people find significant resolution from education alone [one guy reported big change just from reading the comments section of a book]. But in our experience gaining facility in all these skills significantly increases agency in life and often coincides with the resolution of pain [For those looking for a base rate, the closest thing we will point to is Pain Reprocessing Therapy, which found 2/3 people with long lasting moderate back pain find lasting relief after following their program for four weeks. Our protocol is closely inspired by theirs, but there is no study on how effective it is if you follow it yourself].
 
 *For those who'd enjoy more structure*
 We are putting together a free self-guided set of videos. All you have to do is fill out a questionnaire and we can walk you through a prototype to begin.

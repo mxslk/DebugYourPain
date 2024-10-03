@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="principles-of-pain">
- Principles of Pain
- &lt;a class="anchor" href="#principles-of-pain">#&lt;/a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Five Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="five-principles-of-pain">
+ Five Principles of Pain
+ &lt;a class="anchor" href="#five-principles-of-pain">#&lt;/a>
 &lt;/h1>
 &lt;hr>
-&lt;p>&lt;em>This page concisely outlines contextual information on how pain works. It does so primarily from the perspectives of computational cognitive science and evolutionary biology.&lt;/em>&lt;/p>
-&lt;h2 id="pain-is-not-a-measure-of-damage">
- Pain is not a measure of damage
- &lt;a class="anchor" href="#pain-is-not-a-measure-of-damage">#&lt;/a>
+&lt;p>&lt;em>Minimum viable knowledge for working with pain.&lt;/em>&lt;/p>
+&lt;h2 id="i-pain-is-not-a-measure-of-damage">
+ I. Pain is not a measure of damage
+ &lt;a class="anchor" href="#i-pain-is-not-a-measure-of-damage">#&lt;/a>
 &lt;/h2>
 &lt;p>Most of us naively equate pain with tissue damage. The most common view is that pain is the body&amp;rsquo;s perception of damage.
 
@@ -23,7 +23,8 @@
 &lt;span>
  \[ \text{Tissue damage} \implies \text{Pain} \]
 &lt;/span>
-&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
+&lt;/p>
+&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
  Beyond the Wrist: Debugging RSI
  &lt;a class="anchor" href="#beyond-the-wrist-debugging-rsi">#&lt;/a>
 &lt;/h1>
@@ -33,32 +34,20 @@
  &lt;strong>A fire burning&lt;/strong>
  &lt;a class="anchor" href="#a-fire-burning">#&lt;/a>
 &lt;/h2>
-&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Skills for Debugging Pain</title><link>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</guid><description>&lt;h1 id="pain-debugging-protocol">
+&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Pain Debugging Protocol</title><link>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</guid><description>&lt;h1 id="pain-debugging-protocol">
  Pain Debugging Protocol
  &lt;a class="anchor" href="#pain-debugging-protocol">#&lt;/a>
 &lt;/h1>
-&lt;p>&lt;em>A broad protocol for pain resolution&lt;/em>&lt;/p>
+&lt;p>&lt;em>Foundational skills for debugging pain.&lt;/em>&lt;/p>
 &lt;hr>
-&lt;p>so you&amp;rsquo;ve read the principles of pain and you&amp;rsquo;re curious about putting it into action. Before beginning, you might reasonably wonder &amp;ldquo;is my pain related to some type of structural tissue damage?&amp;rdquo; The most reliable way is to first go to a professional healthcare practitioner and hear their diagnosis and suggest a treatment, then you might want to read this doc to hear about factors common to what is often called neuroplastic pain&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:1313/docs/main_posts/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/evidence/</guid><description>&lt;h1 id="introduction">
- Introduction
- &lt;a class="anchor" href="#introduction">#&lt;/a>
+&lt;!-- raw HTML omitted -->
+&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
+ About
+ &lt;a class="anchor" href="#about">#&lt;/a>
 &lt;/h1>
-&lt;blockquote class="book-hint warning">
- &lt;strong>Markdown content&lt;/strong>&lt;br>
-A majority of chronic pain does not have structural tissue damage associated with it. If in doubt, see a doctor or healthcare provider first, and then use this diagnostic.
-&lt;/blockquote>
-
-&lt;h2 id="ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">
- Ferre hinnitibus erat accipitrem dixi Troiae tollens
- &lt;a class="anchor" href="#ferre-hinnitibus-erat-accipitrem-dixi-troiae-tollens">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum, a quoque nutu est &lt;em>quodcumque mandasset&lt;/em> veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. &lt;strong>Dixit repetitaque Quid&lt;/strong>; verrit
-longa; sententia &lt;a href="http://pastor-ad.io/questussilvas">mandat&lt;/a> quascumque nescio
-solebat &lt;a href="http://lacrimas-ab.net/">litore&lt;/a>; noctes. &lt;em>Hostem haerentem&lt;/em> circuit
-&lt;a href="http://www.sine.io/in">plenaque tamen&lt;/a>.&lt;/p></description></item><item><title>Newsletter</title><link>http://localhost:1313/docs/main_posts/newsletter_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/newsletter_link/</guid><description/></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
+&lt;p>Hi, I&amp;rsquo;m Max Shen, the creator of DebugYourPain.org.&lt;/p>
+&lt;p>I built this site because it took me hundreds of hours of careful searching to find the information that helped me resolve my chronic pain. This site is what I wish I had at the start of my experience with pain.&lt;/p>
+&lt;p>I&amp;rsquo;ve got two degrees from MIT and have worked at both &lt;a href="https://cushmanlab.fas.harvard.edu/">Moral Psychology Research Lab&lt;/a> at Harvard, and the &lt;a href="https://cocosci.mit.edu/">Computational Cognitive Science Lab&lt;/a> at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.&lt;/p></description></item><item><title>Newsletter</title><link>http://localhost:1313/docs/main_posts/newsletter_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/newsletter_link/</guid><description/></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h2>
