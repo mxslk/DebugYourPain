@@ -21,7 +21,7 @@ This protocol brings together a few high leverage principles that have been help
 {{< hint warning >}}
 ### Rule out structural damage before you begin
 
-Prior to beginning this protocol, it's important to consider whether your condition might be closely linked to tissue damage. Although the majority of chronic pain is not directly linked to tissue damage, you may be in the minority of cases where a structural intervention is the most helpful (for instance, inflammatory pain associated with a cancerous tumor). It is very valuable to consider the doctor's assessment in light of your own hypothesis. You can combine this the [assessment criteria](https://www.painreprocessingtherapy.com/wp-content/uploads/2021/08/Appendix-Assessing-for-Neuroplastic-Pain.pdf) used in Pain Reprocessing Therapy.
+Prior to beginning this protocol, it's important to consider whether your condition might be closely linked to tissue damage. Although the majority of chronic pain is not directly linked to tissue damage, you may be in the minority of cases where a structural intervention is the most helpful (for instance, inflammatory pain associated with a cancerous tumor). It is very valuable to consider the doctor's assessment in light of your own hypothesis. You can combine this with the [assessment criteria](https://www.painreprocessingtherapy.com/wp-content/uploads/2021/08/Appendix-Assessing-for-Neuroplastic-Pain.pdf) used in Pain Reprocessing Therapy.
 
 Nevertheless, even for people who have clearly associated tissue damage, this protocol should be helpful in association with other forms of treatment.
 
@@ -53,11 +53,9 @@ For your physical environment and habits:
 
 ## 1. Understand Pain
 
-[cognitive component ref]
+[As we've discussed]({{< relref "/docs/main_posts/understand/principles_of_pain/#iii-pain-is-made-of-thoughts-emotions-and-sensation" >}}), pain is partly made of thoughts. How we understand pain greatly affects how we percieve it. During a workout, we might willingly put ourselves through significant pain. We intuitively understand that this pain is safe, and so it isn't a problem even when we wake up bruised and sore the next day. We want to internalize something similar when it comes to chronic pain. At first the understanding may be purely conceptual but you should deepen this understanding until it *feels* clear that the pain is not due to damage and that you know how to work with the pain.
 
-How we understand pain greatly affects how we percieve it. During a workout, we might willingly put ourselves through significant pain. We intuitively understand that this pain is safe, and so it isn't a problem even when we wake up bruised and sore the next day. We want to internalize something similar when it comes to chronic pain. At first the understanding may be purely conceptual but you should deepen this understanding until it *feels* clear that the pain is not due to damage and that you know how to work with the pain.
-
-Prompts: [dropdown?]
+Prompts: 
 - Start logging: Start a pain doc that gathers the evidence about pain in your context and start keeping track of what you have attempted. Be empirical about it: write down what you think is happening with your pain, perform little experiments, and refine your hypothesis.
 - Gather intel: See the evidence page and explore, following your curiosity. Use this to inform your hypothesis of what's going on.
 - Rubber ducking: Articulate what you think is going on with your pain. What parts are you less sure about? Keep refining until it feels clear in light of the evidence we've presented
@@ -66,26 +64,22 @@ Prompts: [dropdown?]
 
 ## 2. Process Your Patterns
 
-[Emotional component ref]
-
 The patterns that generate pain are often rooted in the past. These are forms of technical debt that were once but no longer useful. 
 
 It may have been once helpful to suppress anger to avoid fights in middle school, but at the workplace anger suppression may be directly linked with chronic muscle tension. Processing past patterns is often very helpful for addressing chronic pain.
 
 Processing the past includes many different sub-skills
+
 - *Relaxing the nervous system*. 
-Just as a strange shadow is far more terrifying right after a scary movie, your bodily sensations are more painful when your sympathetic nervous system is constantly activated. Similar to developer mode on an operating system, relaxing the nervous system allows you to experiment and problem solve in a way that you usually cannot. You may have to experiment to find the practice that works well for you. Breathwork, Progressive Relaxation, and even Tapping have been helpful for people. [We do have a particular practice that we like; you can try that here.]
+Just as a strange shadow is far more terrifying right after a scary movie, your bodily sensations are more painful when your sympathetic nervous system is constantly activated. Similar to developer mode on an operating system, relaxing the nervous system allows you to experiment and problem solve in a way that you usually cannot. You may have to experiment to find the practice that works well for you. Breathwork, Progressive Relaxation, and even Tapping have been helpful for people.
 
-- *Improving interoception*
-
+- *Improving interoception*.
 Interoception is the ability to notice internal sensations. Getting better at interoception allows us to update our internalized beliefs about the pain. A very powerful practice for this is Somatic Tracking [cite: as developed and described in Pain Reprocessing Therapy], in which you gently inquire into the pain sensations. If you are able to notice the sensation aspect of the pain in a nonjudgemental way, the fear-catastrophizing loop is interrupted, and the pain 
 
 
-- *Feeling emotions*
-
-As we've mentioned, pain has a cognitive, an emotional, and a sensation component. The emotional component of chronic pain is often highly charged when emotions are repressed for a long period of time. Unfortunately, most of the time it is very difficult to know to what extent you are repressing your emotions (note: find a more neutral phrasing than repressed). One very helpful set of practices involves stopping resistance to unpleasant emotions.
-
-This can be done through targeted writing prompts, guided awareness exercises, or just sitting there and feeling. [Ref. JournalSpeak Paulina Soble, Mindbody workbook Schechter] You might also consider working with a skilled therapist or coach. [cite: There is very high variance in terms of the effectiveness of the practitioner, so it may take time to find the right fit. Sources below PRT, Coherence Therapy, and of course myself and Tanner take on a small number of people.]
+- *Feeling emotions*.
+As we've mentioned, pain has a cognitive, an emotional, and a sensation component. The emotional component of chronic pain is often highly charged when emotions are repressed for a long period of time. Unfortunately, most of the time it is very difficult to know to what extent you are inhibiting your emotions. One very helpful set of practices involves stopping resistance to unpleasant emotions.
+This can be done through targeted writing prompts[^2], guided awareness exercises, or just sitting there and feeling. [Ref. JournalSpeak Paulina Soble, Mindbody workbook Schechter] You might also consider working with a skilled therapist or coach[^3].
 
 <!-- - *Leaning into pleasure* -->
 
@@ -96,10 +90,13 @@ Understanding and processing are best done in a controlled environment. If you w
 
 ---
 
-You do not need all of these skills to resolve pain. Many people find significant resolution from education alone [one guy reported big change just from reading the comments section of a book]. But in our experience gaining facility in all these skills significantly increases agency in life and often coincides with the resolution of pain [For those looking for a base rate, the closest thing we will point to is Pain Reprocessing Therapy, which found 2/3 people with long lasting moderate back pain find lasting relief after following their program for four weeks. Our protocol is closely inspired by theirs, but there is no study on how effective it is if you follow it yourself].
+You do not need all of these skills to resolve pain. Many people find significant resolution from education alone (people have reported resolution from just reading [reviews of a book](https://x.com/visakanv/status/1652574276531412992)). But in our experience gaining facility in all these skills significantly increases agency in life and often coincides with the resolution of pain [For those looking for a base rate, the closest thing we will point to is Pain Reprocessing Therapy, which found 2/3 people with long lasting moderate back pain find lasting relief after following their program for four weeks. Our protocol is closely inspired by theirs, but there is no study on how effective it is if you follow it yourself].
+
 
 *For those who'd enjoy more structure*
-We are putting together a free self-guided set of videos. All you have to do is fill out a questionnaire and we can walk you through a prototype to begin.
+We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
+
+<!-- We are also running events! See when our next cohort opens up. -->
 
 There are many guides to pain and many different practices for resolving pain. We have experimented with many of these and referred to what we feel are the most compelling for a wide range of people. We invite you also to explore and let us know what you find!
 - Physiotherapist Greg Lehman has a [free pain guidebook](https://www.greglehman.ca/pain-science-workbooks).
@@ -111,3 +108,6 @@ There are many guides to pain and many different practices for resolving pain. W
 
 
 [^1]: A large enough codebase, like the human being, also has the properties of a complex system.
+[^2]: Nichole Sachs' [JournalSpeak](https://www.yourbreakawake.com/journalspeak) and Kevin Viner's [The Mindbody Syndrome: A Path to Recovery and Freedom](https://www.amazon.com/MINDBODY-SYNDROME-TMS-Recovery-Freedom/dp/B085RNKS75/) have good exercises.
+
+[^3]:  There is very high variance in terms of the effectiveness of the practitioner, so it may take time to find the right fit. We've found good practitioners associated with Pain Reprocessing Therapy and Coherence Therapy, and we (Max and Tanner) also work with people.

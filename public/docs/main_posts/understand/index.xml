@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Understand on Debug Your Pain</title><link>http://localhost:1313/docs/main_posts/understand/</link><description>Recent content in Understand on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/main_posts/understand/index.xml" rel="self" type="application/rss+xml"/><item><title>Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="principles-of-pain">
- Principles of Pain
- &lt;a class="anchor" href="#principles-of-pain">#&lt;/a>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Understand on Debug Your Pain</title><link>http://localhost:1313/docs/main_posts/understand/</link><description>Recent content in Understand on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/main_posts/understand/index.xml" rel="self" type="application/rss+xml"/><item><title>Five Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="five-principles-of-pain">
+ Five Principles of Pain
+ &lt;a class="anchor" href="#five-principles-of-pain">#&lt;/a>
 &lt;/h1>
 &lt;hr>
-&lt;p>&lt;em>This page concisely outlines contextual information on how pain works. It does so primarily from the perspectives of computational cognitive science and evolutionary biology.&lt;/em>&lt;/p>
-&lt;h2 id="pain-is-not-a-measure-of-damage">
- Pain is not a measure of damage
- &lt;a class="anchor" href="#pain-is-not-a-measure-of-damage">#&lt;/a>
+&lt;p>&lt;em>Minimum viable knowledge for working with pain.&lt;/em>&lt;/p>
+&lt;h2 id="i-pain-is-not-a-measure-of-damage">
+ I. Pain is not a measure of damage
+ &lt;a class="anchor" href="#i-pain-is-not-a-measure-of-damage">#&lt;/a>
 &lt;/h2>
 &lt;p>Most of us naively equate pain with tissue damage. The most common view is that pain is the body&amp;rsquo;s perception of damage.
 
@@ -23,7 +23,8 @@
 &lt;span>
  \[ \text{Tissue damage} \implies \text{Pain} \]
 &lt;/span>
-&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
+&lt;/p>
+&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
  Beyond the Wrist: Debugging RSI
  &lt;a class="anchor" href="#beyond-the-wrist-debugging-rsi">#&lt;/a>
 &lt;/h1>

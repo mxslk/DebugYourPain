@@ -1,12 +1,13 @@
 ---
 weight: 1
 bookCollapseSection: false
-title: "Five Principles of Pain"
+title: "Four Principles of Pain"
 ---
 
-# Five Principles of Pain
+# Four Principles of Pain
 ---
 *Minimum viable knowledge for working with pain.*
+
 
 ## I. Pain is not a measure of damage
 
@@ -54,7 +55,7 @@ If it's not just a measure of physical damage, then what is pain?
 
 *How did pain evolve?*
 
-The neural circuitry for responding to harm evolved around 600 million years ago, in our great ancestor — the bilateral worm. It was a protective instinct responding to external stimuli; If poked, the worm would retreat. 
+The neural circuitry for responding to harm evolved around 600 million years ago, in our great ancestor — the bilateral worm. It was a protective instinct responding to external stimuli; If poked, the worm would retreat[^6]. 
 
 Initially, it was all instinct. Pain wasn't 'unpleasant' because worms didn't have the neural tissue for feelings. It was only much later, with the development of structures like the limbic system, that our ancestors began to have the unpleasant feelings that we would recognize as pain.
 
@@ -122,7 +123,7 @@ These aspects of pain mutually reinforce each other. Catastrophic thinking can l
 
 {{< figure src="/images/simple_diagram_pain.png" alt="drawing" width="300" >}}
 
-<!-- [cite: cognitive affective sensory components of pain] -->
+<!-- [cite: cognitive affective sensory components of pain]it -->
 
 <!-- ## IV. Most chronic pain arises from a miscalibrated pain signal 
 
@@ -155,14 +156,14 @@ The human brain is capable of incredible adaptation. Blind people can learn to '
 
 These examples of neuroplasticity demonstrate that our brains can rewire themselves in response to drastic changes. This same plasticity applies to how we process and experience pain. Just as our brains can adapt to loss of sight, they can also learn to recalibrate pain.
 
-There are randomized clinical trials and thousands of anecdotes demonstrating that lasting change in pain response is through a procedure is possible [^7]. 
+There are randomized clinical trials and thousands of anecdotes demonstrating that you can permanently resolve pain through noninvasive procedures[^7]. 
 
 <!-- See the Evidence Page for more. -->
 
-There's no reason a priori that any nervous system cannot recalibrate and resolve the patterns that generate pain. The only question is which stimuli and adjustments will work. The next page, [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}), sketches out how to explore this
+There's no reason a priori that any nervous system cannot recalibrate and resolve the patterns that generate pain. The only question is which stimuli and adjustments will work. 
 
+If you want to jump right into working with pain, go to [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}). If you have a bit more time for a story, go ahead to [Debugging RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}})
 
-Next: [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}).
 
 
 [^1]: Downie, Aron, et al. "How common is imaging for low back pain in primary and emergency care? Systematic review and meta-analysis of over 4 million imaging requests across 21 years." British journal of sports medicine 54.11 (2020): 642-651.

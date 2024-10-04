@@ -190,7 +190,7 @@ I want to thank the generation of pain researchers that laid the groundwork for 
 
 Since my recovery, it's become clearer to me that processing your own pain is a learnable skill. I've since had the opportunity to teach several people this skill, using my own idiosyncratic interpretation of pain reprocessing therapy (PRT). This has led me to believe that there's room to refine and improve the efficacy of existing techniques. 
 
-Continue reading at [Pillars of Practice]({{< relref "../practice/pillars_of_practice.md" >}})
+Continue reading at [Pain Debugging Protocol]({{< relref "../practice/pillars_of_practice.md" >}})
 
 {{< /hint >}}
 
