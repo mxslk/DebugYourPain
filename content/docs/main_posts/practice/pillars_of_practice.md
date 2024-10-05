@@ -16,7 +16,6 @@ This page is about giving you a structure for debugging pain. Debugging pain is 
 
 This protocol brings together a few high leverage principles that have been helpful in our own experience and our experience in helping others. It distills principles common to many techniques that aim to address pain and thus 'sits atop' them. We encourage you to view this as a meta-protocol that informs how you go about trying more specific practices, whether that be Pain Reprocessing Therapy or Qigong.
 
-[If you would like a guided walkthrough of these principles along with guided exercises, you can fill out this questionnaire and get a video a day for ten days.]
 
 {{< hint warning >}}
 ### Rule out structural damage before you begin
@@ -94,15 +93,18 @@ You do not need all of these skills to resolve pain. Many people find significan
 
 
 *For those who'd enjoy more structure*
+
 We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
 
 <!-- We are also running events! See when our next cohort opens up. -->
 
+*Additional resources*
+
 There are many guides to pain and many different practices for resolving pain. We have experimented with many of these and referred to what we feel are the most compelling for a wide range of people. We invite you also to explore and let us know what you find!
 - Physiotherapist Greg Lehman has a [free pain guidebook](https://www.greglehman.ca/pain-science-workbooks).
 - [The Pain Management Workbook](https://www.amazon.com/Pain-Management-Workbook-Powerful-Mindfulness/dp/1684036445)
-- Noigroup
-- Shinzen Young's Breakthrough Pain
+- Pain Reprocessing Therapy's [The Way Out](https://www.amazon.com/Way-Out-Revolutionary-Scientifically-Approach/dp/059308683X&ved=2ahUKEwjXjKT4y_eIAxWoLzQIHfqTCMQQFnoECEUQAQ&usg=AOvVaw0YOIYV8HlwDINNBGLPi71I)
+- Shinzen Young's [Break Through Pain](https://www.amazon.com/Break-Through-Pain-Step-Step/dp/B001CB6A0A)
 
 
 

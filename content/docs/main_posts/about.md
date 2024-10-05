@@ -18,5 +18,9 @@ I'm trained in Pain Reprocessing Therapy, a modality using awareness to recalibr
 
 I built this site with my friend and colleague [Tanner Holman](https://sites.google.com/view/processingpain/talk-to-tanner?pli=1), whose deep knowledge of physiology and movement complements my own technical perspective.
 
-{{< figure src="/images/handstand.jpg" alt="drawing" width="300" >}}
+You can email me at maxkshen[at]gmail[dot]com.
+
+{{< figure src="/images/handstand.jpg" alt="drawing" width="300" caption="<em>I went from 'cannot type</em>' to daily handstands." >}}
+
+
 
