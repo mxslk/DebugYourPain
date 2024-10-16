@@ -41,13 +41,23 @@
 &lt;p>&lt;em>Foundational skills for debugging pain.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;!-- raw HTML omitted -->
-&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
+&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>Events</title><link>http://localhost:1313/docs/main_posts/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/events/</guid><description>&lt;h1 id="events">
+ Events
+ &lt;a class="anchor" href="#events">#&lt;/a>
+&lt;/h1>
+&lt;hr>
+&lt;p>Each month, we run events exploring the new ideas and techniques related to the science and practice of resolving pain. They range from live workshops to 4 week guided cohorts.&lt;/p>
+&lt;h3 id="lab-hours">
+ &lt;strong>Lab hours&lt;/strong>
+ &lt;a class="anchor" href="#lab-hours">#&lt;/a>
+&lt;/h3>
+&lt;p>Lab hours are a container for different experiments we want to run related pain. One session might be exploring a new theory of how awareness modulates pain. Another might be a new movement game we want to test.&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
  About
  &lt;a class="anchor" href="#about">#&lt;/a>
 &lt;/h1>
 &lt;p>Hi, I&amp;rsquo;m Max Shen, the creator of DebugYourPain.org.&lt;/p>
 &lt;p>I built this site because it took me hundreds of hours of careful searching to find the information that helped me resolve my chronic pain. This site is what I wish I had at the start of my experience with pain.&lt;/p>
-&lt;p>I&amp;rsquo;ve got two degrees from MIT and have worked at both &lt;a href="https://cushmanlab.fas.harvard.edu/">Moral Psychology Research Lab&lt;/a> at Harvard, and the &lt;a href="https://cocosci.mit.edu/">Computational Cognitive Science Lab&lt;/a> at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.&lt;/p></description></item><item><title>Newsletter</title><link>http://localhost:1313/docs/main_posts/newsletter_link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/newsletter_link/</guid><description/></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
+&lt;p>I&amp;rsquo;ve got two degrees from MIT and have worked at both &lt;a href="https://cushmanlab.fas.harvard.edu/">Moral Psychology Research Lab&lt;/a> at Harvard, and the &lt;a href="https://cocosci.mit.edu/">Computational Cognitive Science Lab&lt;/a> at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h2>
@@ -89,4 +99,11 @@ appropriate version for your OS and architecture.&lt;/p>
 &lt;/h2>
 &lt;p>Hugo has its own example site which happens to also be the documentation site
 you are reading right now.&lt;/p>
-&lt;p>Follow the following steps:&lt;/p></description></item></channel></rss>
+&lt;p>Follow the following steps:&lt;/p></description></item><item><title>◑ Pain Debugging Cohort</title><link>http://localhost:1313/posts/cohort_nov24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/cohort_nov24/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;em>A month-long pain debugging intensive in groups of three or smaller.&lt;/em>&lt;/p>
+&lt;p>🗓 1 month. November 2nd - December 2nd, 2024&lt;/p>
+&lt;p>🗺 Location: Online (register here)&lt;/p>
+&lt;p>💰 $250&lt;/p>
+&lt;hr>
+&lt;p>This might be the most difficult challenge you&amp;rsquo;ve ever faced. Everything else — exams, competitions, assignments — may have folded when you just &lt;em>tried harder.&lt;/em> Not this. As we laid out in our &lt;a href="http://localhost:1313/docs/main_posts/practice/pillars_of_practice/">debugging protocol&lt;/a>, chronic pain does not fold under more force. Your body is a complex system, not a mechanical machine. Instead of force, we have to observe and experiment with patience.&lt;/p></description></item></channel></rss>

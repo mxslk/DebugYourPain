@@ -13,12 +13,11 @@ I spent a thousand hours experimenting with how to resolve chronic pain. I succe
 
 ## 1. Understand the principles of pain
 
-Pain is probably not what you think it is. Grasping a more accurate model of pain is the first step towards resolution.
+Pain is not damage. It is a signal for protective action. Grasping a more accurate model of pain is the first step towards resolution.
 
 {{< hint info >}}
-Short: [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_of_pain.md" >}})
+Start with [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_of_pain.md" >}})
 
-Long: [Beyond the Wrist: Debugging RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}})
 {{< /hint >}}
 
 ## 2. Practice debugging pain
