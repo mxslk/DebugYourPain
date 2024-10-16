@@ -96,6 +96,8 @@ You do not need all of these skills to resolve pain. Many people find significan
 
 We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
 
+This November, we are running small cohorts to implement the pain debugging protocol in their lives. There's room for 9 people. Read more [here]({{< relref "/posts/cohort_nov24.md" >}}).
+
 <!-- We are also running events! See when our next cohort opens up. -->
 
 *Additional resources*

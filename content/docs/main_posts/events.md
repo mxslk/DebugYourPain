@@ -21,7 +21,7 @@ Our next open lab will be October 24th at 2pm EST.
 
 We don't offer 1:1 coaching, but anyone interested in working with us should consider joining a Processing Pain cohort. We have a dense 4 week program that embodies all the ideas in our Pain Debugging Protocol. We can't directly refactor your code, but we can use our deep knowledge across the stack to show you how.
 
-Read more here.
+Read more [here]({{< relref "/posts/cohort_nov24.md" >}}).
 
 
 
