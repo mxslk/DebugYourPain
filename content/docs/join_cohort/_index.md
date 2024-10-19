@@ -1,5 +1,6 @@
 ---
-title: "Join a cohort"
+title: "Month-long intensive"
 weight: 5
-draft: true
+draft: false
+bookHref: "/posts/cohort_nov24"
 ---

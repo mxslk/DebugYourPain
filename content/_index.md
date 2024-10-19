@@ -5,7 +5,7 @@ purpose: Provide overview of site
 bookToc: false
 ---
 
-# Home
+# Debugging pain is a skill you can learn
 
 I spent a thousand hours experimenting with how to resolve chronic pain. I succeeded and began to teach other people. This site condenses hundreds of hours of trying different techniques, dozens of pain science papers, and the workshops I've run.
 
@@ -34,5 +34,7 @@ Like untangling a codebase, debugging pain well requires a set of skills. You ca
 Other people can provide helpful support in this process.
 
 To hear about workshops and new resources, [join the mailing list](https://landing.processing-pain.com/sign_up). 
+
+We are also running an experimental [pain debugging intensive]({{< relref "/posts/cohort_nov24.md" >}}) in November 2024. 
 
 

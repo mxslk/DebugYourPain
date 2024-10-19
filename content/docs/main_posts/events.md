@@ -14,7 +14,7 @@ Each month, we run events exploring the new ideas and techniques related to the 
 
 Lab hours are a container for different experiments we want to run related pain. One session might be exploring a new theory of how awareness modulates pain. Another might be a new movement game we want to test. 
 
-Our next open lab will be October 24th at 2pm EST.
+Our next open lab will be October 24th at 3pm EST. We will post details here and also via [our newsletter](https://landing.processing-pain.com/sign_up). 
 
 
 ### **Join a cohort**

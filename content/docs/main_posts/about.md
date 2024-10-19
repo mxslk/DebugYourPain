@@ -8,7 +8,7 @@ title: "About"
 
 Hi, I'm Max Shen, the creator of DebugYourPain.org.
 
-I built this site because it took me hundreds of hours of careful searching to find the information that helped me resolve my chronic pain. This site is what I wish I had at the start of my experience with pain.
+I built this site because it took me hundreds of hours of careful searching to find the information that helped me resolve my chronic pain. This site is what I wish I had at the start of my experience with pain. 
 
 I've got two degrees from MIT and have worked at both [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) at Harvard, and the [Computational Cognitive Science Lab](https://cocosci.mit.edu/) at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.
 
