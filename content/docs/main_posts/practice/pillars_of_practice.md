@@ -39,7 +39,7 @@ For your mindset:
 
 For your physical environment and habits:
 
-- **Make a calm space, free of distractions**. Somewhere you won't be bothered by pets or other people. Lighting a candle can serve asa a helpful symbol that you are going to begin.
+- **Make a calm space, free of distractions**. Somewhere you won't be bothered by pets or other people. Lighting a candle can serve as a helpful symbol that you are going to begin.
 
 - **Make your work less stressful**. If you take this process seriously, it will be your most important part-time job. Rearrange your work around this, not vice-versa. It is hard to make meaningful progress if you go to sleep dreaming of that project you should have finished by now. 
 
@@ -52,7 +52,7 @@ For your physical environment and habits:
 
 ## 1. Understand Pain
 
-[As we've discussed]({{< relref "/docs/main_posts/understand/principles_of_pain/#iii-pain-is-made-of-thoughts-emotions-and-sensation" >}}), pain is partly made of thoughts. How we understand pain greatly affects how we percieve it. During a workout, we might willingly put ourselves through significant pain. We intuitively understand that this pain is safe, and so it isn't a problem even when we wake up bruised and sore the next day. We want to internalize something similar when it comes to chronic pain. At first the understanding may be purely conceptual but you should deepen this understanding until it *feels* clear that the pain is not due to damage and that you know how to work with the pain.
+[As we've discussed]({{< relref "/docs/main_posts/understand/principles_of_pain/#iii-pain-is-made-of-thoughts-emotions-and-sensation" >}}), pain is partly made of thoughts. How we understand pain greatly affects how we perceive it. During a workout, we might willingly put ourselves through significant pain. We intuitively understand that this pain is safe, and so it isn't a problem even when we wake up bruised and sore the next day. We want to internalize something similar when it comes to chronic pain. At first the understanding may be purely conceptual but you should deepen this understanding until it *feels* clear that the pain is not due to damage and that you know how to work with the pain.
 
 Prompts: 
 - Start logging: Start a pain doc that gathers the evidence about pain in your context and start keeping track of what you have attempted. Be empirical about it: write down what you think is happening with your pain, perform little experiments, and refine your hypothesis.

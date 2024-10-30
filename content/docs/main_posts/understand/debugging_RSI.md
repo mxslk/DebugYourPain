@@ -14,7 +14,7 @@ This is a personal essay about a period of major suffering from chronic pain I w
 
 I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.
 
-Besides a dull headache, I feel the usual ache in my wrists. This time, though, my forearms are also hurting. A dull heat rises from my wrists to the soft muscle below my elbow. Another half hour of coding, the pain in my wrists becomes sharper. So I stop for the day, knowing that my wrists will be back to normal to fix this problem tomorrow. Or so I think.
+Besides a dull headache, I feel the usual ache in my wrists. This time, though, my forearms are also hurting. A dull heat rises from my wrists to the soft muscle below my elbow. Another half hour of coding, the pain in my wrists becomes sharper. So I stop for the day, knowing that my wrists will be back to normal enough to fix this problem tomorrow. Or so I think.
 
 As a grad student in CS, I code a lot, so make sure to have good postural and ergonomic hygiene. I use a Microsoft Sculpt keyboard, hotkeys to minimize mouse use. My wrists are neutral and my screen is at head height. It more or less keeps various aches at bay.
 

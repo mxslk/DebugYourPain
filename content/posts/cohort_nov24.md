@@ -12,23 +12,29 @@ menu = "main"
 Hardware vs software problem
  -->
 
-*An experimental month-long pain debugging intensive in groups of three or smaller.*
+*A month-long pain debugging intensive.*
 
-🗓 1 month. November 2nd - December 2nd, 2024
+🗓 1 month. November 16th - December 14th, 2024
 
-🗺 Location: Online (register interest [here](https://tally.so/r/3xPeqy)). 9 spots left.
+🗺 Location: Online (register interest [here](https://tally.so/r/3xPeqy)). 
 
-💰 $300
+💰 $50-500 [Sliding scale]
 
 ---
-    
-We are running an experiment. 
 
-Our hypothesis: combining the best tools for pain resolution with a careful structure will lead to significant shifts in the experience of pain.[^1] 
 
-As Max laid out in his essay on [uncovering the causes of RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}}), the most popular approaches to chronic pain are based on an outdated model of the body as a biomechanical machine. This month-long intensive builds on our training in methodologies like Pain Reprocessing Therapy that acknowledge your pain as a signal for protective action. **Our goal is to equip you with the skills to permanently change the way you experience pain.**
+### How it works
 
-We'll scaffold your journey through the different foundational skills for debugging pain. Small group sizes mean that you will get support both from us and peers as you begin to untangle and refactor the patterns that contribute to pain.
+- Join a supportive cohort to move through a pain debugging protocol 
+- Meet 2-3x per week to learn, practice, and discuss
+- Get prompted
+- 1 on 1 guidance from Max or Tanner
+
+
+The most popular approaches to pain are based on an outdated model of the body as a biomechanical machine. There’s a better way of understanding pain. Once we understand pain as a learning signal, not tissue damage, we can broaden the range of techniques available to help.
+
+Ashar et al. (2022) demonstrated that 67% of chronic pain patients can effectively resolve their pain after just four weeks of instruction. We want to recreate and build on their result with a thoughtful social structure. 
+
 
 {{< hint info >}}
 ## **Prerequisites**
@@ -39,7 +45,6 @@ We'll scaffold your journey through the different foundational skills for debugg
 
 - You are willing to put aside 1 hour per day for a month.
 {{< /hint >}}
-
 
 
 More on what to expect:
@@ -55,18 +60,18 @@ The content fluctuates depending on your needs, but the core areas are:
 
 We have nine spaces and expect these to fill up in the next week. You can register interest [here](https://tally.so/r/3xPeqy).
 
-Our influences:
-- 4E cognitive science (see for instance, Stilwell P, Harman K. An enactive approach to pain: beyond the biopsychosocial model. Phenomenology and the Cognitive Sciences. 2019 Sep;18(4):637-65.)
-- Predictive processing (understanding the role of perceptual priors in shaping our experience. See [this lecture](https://www.youtube.com/watch?v=WvPtqGp9PHA) on awareness and the role of active inference.)
-- Ecological Dynamics (combining theories of affordances with understanding of the human as a complex system) — see for instance [this interview](https://www.youtube.com/watch?v=k7CUY9o3Vvs) on Ecological Psychology.
-- Pain Reprocessing Therapy (see Ashar et al. 2022)
-- [Moshe Feldenkrais](https://feldenkraisproject.com/about/about-feldenkrais-method/)
-
-
-Note: We will always continue to open source our knowledge and practices. This intensive is about tailoring our knowledge to your situation.
-
-Refund policy: We can't guarantee pain resolution (no one can), but we predict with high likelihood that your direct experience of pain will change and that you will have a handle on your pain. If you complete the month and don't feel there's been a noticeable shift, we will refund you.
 
 {{< button href="https://tally.so/r/3xPeqy" >}}**Register here**{{< /button >}}
 
-[^1]: We have a good base rate to go off of. Ashar et al (2022) found 66% of back pain patients had dramatic decreases in pain from 4 weeks with PRT (which persisted after 1 year). This is the base rate that we hope to at least replicate.
+### FAQ
+
+Note: We will always continue to open source our knowledge and practices. This intensive is about tailoring our knowledge to your situation.
+
+*Q: Why a whole hour per day?*
+
+We are trying to unlearn habits. Most of the practices don't need that much time, but it is important to have space around the practice. It should not be jammed between two meetings.
+
+*Q: Is there a refund policy?*
+
+Refund policy: We can't guarantee pain resolution (no one can), but we predict with high likelihood that your direct experience of pain will change and that you will have a handle on your pain. If you complete the month and don't feel there's been a noticeable shift, we will refund you.
+

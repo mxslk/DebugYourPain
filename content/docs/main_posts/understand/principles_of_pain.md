@@ -66,7 +66,7 @@ Say you're cooking later today and accidentally touch a burning stove. What do y
 
 The pain hurts so that you move to safety. So you protect your hand from further damage. If the pain is bad enough, you'll also learn to be more careful around stoves, and you might even be afraid of frying things.
 
-Pain is a learning signal your nervous system generates for protective action. With it, you protect your hand, and avoid future situations where your hand is at risk,
+Pain is a learning signal your nervous system generates for protective action. With it, you protect your hand, and avoid future situations where your hand is at risk.
 
 **Pain is generated from past experience**
 
@@ -162,7 +162,7 @@ There are randomized clinical trials and thousands of anecdotes demonstrating th
 
 There's no reason a priori that any nervous system cannot recalibrate and resolve the patterns that generate pain. The only question is which stimuli and adjustments will work. 
 
-If you want to jump right into working with pain, go to [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}). If you have a bit more time for a story, go ahead to [Debugging RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}})
+If you want to jump right into working with pain, go to [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}). If you have a bit more time for a story, go ahead to [Debugging RSI]({{< relref "/docs/main_posts/understand/debugging_RSI.md" >}}).
 
 
 

@@ -1,7 +1,8 @@
 ---
 weight: 3
 bookFlatSection: true
-title: "Events"
+title: "Eventsno"
+draft: true
 ---
 
 # Events
