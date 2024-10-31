@@ -12,7 +12,7 @@ menu = "main"
 Hardware vs software problem
  -->
 
-*A month-long pain debugging intensive.*
+**A 30 day intensive to debug your pain.** Go from stuck and frustrated in pain to light and moving freely with a supportive cohort.
 
 🗓 1 month. November 16th - December 14th, 2024
 
@@ -26,8 +26,7 @@ Hardware vs software problem
 ### How it works
 
 - Join a supportive cohort to move through a pain debugging protocol 
-- Meet 2-3x per week to learn, practice, and discuss
-- Get prompted
+- Meet 2-3x per week to learn, and practice established techniques for addressing pain
 - 1 on 1 guidance from Max or Tanner
 
 
