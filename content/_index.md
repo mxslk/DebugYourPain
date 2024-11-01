@@ -39,4 +39,6 @@ To hear about workshops and new resources, [join the mailing list](https://landi
 
 **We are also running an experimental [pain debugging intensive]({{< relref "/posts/cohort_nov24.md" >}}) in November 2024.**
 
+We welcome contributions, especially stories and additional resources
+
 
