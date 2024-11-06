@@ -46,7 +46,7 @@ Ashar et al. (2022) demonstrated that 67% of chronic pain patients can effective
 {{< /hint >}}
 
 
-Here's what Cam says about going through our process:
+Here's what one of our past clients says about going through our process:
 {{< youtube MC7A5CM5w6Y >}}
 
 More on what to expect:
