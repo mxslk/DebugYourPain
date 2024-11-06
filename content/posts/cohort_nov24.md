@@ -16,9 +16,9 @@ Hardware vs software problem
 
 🗓 1 month. November 16th - December 14th, 2024
 
-🗺 Location: Online (register interest [here](https://tally.so/r/3xPeqy)). 
+🗺 Location: Online (register interest [here](https://tally.so/r/3xPeqy)). Space limited.
 
-💰 $50-500 [Sliding scale]
+💰 $Pay if results (see FAQ)
 
 ---
 
@@ -46,6 +46,9 @@ Ashar et al. (2022) demonstrated that 67% of chronic pain patients can effective
 {{< /hint >}}
 
 
+Here's what Cam says about going through our process:
+{{< youtube MC7A5CM5w6Y >}}
+
 More on what to expect:
 Nine sessions total (3 in the first week, then 2 each week afterwards). Sessions are all personally led by [Max Shen and Tanner Holman]({{< relref "/docs/main_posts/about.md" >}}). 
 
@@ -62,15 +65,26 @@ We have nine spaces and expect these to fill up in the next week. You can regist
 
 {{< button href="https://tally.so/r/3xPeqy" >}}**Register here**{{< /button >}}
 
+Note: We will always continue to open source our knowledge and practices. This intensive is about tailoring our knowledge to your situation.
+
+Uncertain? Send any questions to max@processing-pain.com Feel free to also book a 15-minute call [here](https://calendly.com/maxkshen/pain-debugging-course) and Tanner or Max will talk with you.
+
 ### FAQ
 
-Note: We will always continue to open source our knowledge and practices. This intensive is about tailoring our knowledge to your situation.
+*Q: Pay only for results?*
+
+How it works: 
+1. You decide upfront how much you'd happily pay us if our course resulted in your pain significantly decreasing.
+2. If we think you're a good fit, we ask you for a small refundable deposit ($60) to confirm your spot. (This signals commitment to us and yourself).
+3. At the end of the course, we send you back your deposit. If you feel like your pain significantly decreased, you pay us the amount, otherwise, it's free.
+
+We're confident that this works, and want to put our skin in the game.
+
+Most courses will charge upfront, but fail to deliver to everyone. Once the client has paid, there's less incentive to keep them happy. We think this payment mechanism better aligns us and our clients because i) clients set reasonable prices before knowing the outcome, and ii) we will be paid only if the client is satisfied.
+
 
 *Q: Why a whole hour per day?*
 
-We are trying to unlearn habits. Most of the practices don't need that much time, but it is important to have space around the practice. It should not be jammed between two meetings.
+We are trying to unlearn habits. 1 hour is 4% of a day. We need to use it wisely if we want to lead to lasting shifts. It is important that this hour is not sandwiched between two otherwise busy periods, but that it happens before or after a normal working period.
 
-*Q: Is there a refund policy?*
-
-Refund policy: We can't guarantee pain resolution (no one can), but we predict with high likelihood that your direct experience of pain will change and that you will have a handle on your pain. If you complete the month and don't feel there's been a noticeable shift, we will refund you.
 
