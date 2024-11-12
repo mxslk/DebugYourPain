@@ -1,31 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Evidence</title><link>http://localhost:1313/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
- Evidence Page
- &lt;a class="anchor" href="#evidence-page">#&lt;/a>
-&lt;/h1>
-&lt;hr>
-&lt;p>&lt;em>This page collects a broad range of evidence about chronic pain, and how it can be resolved. It includes scientific papers but also individual case studies from real people.&lt;/em>&lt;/p>
-&lt;h2 id="hahahugoshortcode78s0hbhb">
- 
-
-&lt;span style="background-color: #bf1f17;"> 
- &lt;span style="
- color: #bf1f17;
- filter: grayscale(1) invert(1) contrast(100);
- ">
- Pain resolution is possible without drugs or surgery
- &lt;/span>
-&lt;/span>
-
-
- &lt;a class="anchor" href="#hahahugoshortcode78s0hbhb">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="different-non-physical-therapies-can-permanently-relieve-pain">
- Different non-physical therapies can permanently relieve pain
- &lt;a class="anchor" href="#different-non-physical-therapies-can-permanently-relieve-pain">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. (&lt;a href="https://watermark.silverchair.com/jamapsychiatry_ashar_2021_oi_210060_1640022091.64193.pdf">Ashar et al. 2021&lt;/a>)&lt;/p></description></item><item><title>Four Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Four Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
  Four Principles of Pain
  &lt;a class="anchor" href="#four-principles-of-pain">#&lt;/a>
 &lt;/h1>
@@ -74,7 +47,34 @@
 &lt;p>&lt;em>Foundational skills for debugging pain.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;!-- raw HTML omitted -->
-&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
+&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:1313/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
+ Evidence Page
+ &lt;a class="anchor" href="#evidence-page">#&lt;/a>
+&lt;/h1>
+&lt;hr>
+&lt;p>&lt;em>This page collects a broad range of evidence about chronic pain, and how it can be resolved. It includes scientific papers but also individual case studies from real people.&lt;/em>&lt;/p>
+&lt;h2 id="hahahugoshortcode12s0hbhb">
+ 
+
+&lt;span style="background-color: #bf1f17;"> 
+ &lt;span style="
+ color: #bf1f17;
+ filter: grayscale(1) invert(1) contrast(100);
+ ">
+ Pain resolution is possible without drugs or surgery
+ &lt;/span>
+&lt;/span>
+
+
+ &lt;a class="anchor" href="#hahahugoshortcode12s0hbhb">#&lt;/a>
+&lt;/h2>
+&lt;h3 id="different-non-physical-therapies-can-permanently-relieve-pain">
+ Different non-physical therapies can permanently relieve pain
+ &lt;a class="anchor" href="#different-non-physical-therapies-can-permanently-relieve-pain">#&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. (&lt;a href="https://watermark.silverchair.com/jamapsychiatry_ashar_2021_oi_210060_1640022091.64193.pdf">Ashar et al. 2021&lt;/a>)&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
  About
  &lt;a class="anchor" href="#about">#&lt;/a>
 &lt;/h1>
@@ -129,13 +129,8 @@ you are reading right now.&lt;/p>
 &lt;p>🗺 Location: Online (register interest &lt;a href="https://tally.so/r/3xPeqy">here&lt;/a>). Space limited.&lt;/p>
 &lt;p>💰 $Pay if results (see FAQ)&lt;/p>
 &lt;hr>
-&lt;h3 id="how-it-works">
- How it works
- &lt;a class="anchor" href="#how-it-works">#&lt;/a>
+&lt;h3 id="why-this-works">
+ Why This Works
+ &lt;a class="anchor" href="#why-this-works">#&lt;/a>
 &lt;/h3>
-&lt;ul>
-&lt;li>Join a supportive cohort to move through a pain debugging protocol&lt;/li>
-&lt;li>Meet 2-3x per week to learn, and practice established techniques for addressing pain&lt;/li>
-&lt;li>1 on 1 guidance from Max or Tanner&lt;/li>
-&lt;/ul>
-&lt;p>The most popular approaches to pain are based on an outdated model of the body as a biomechanical machine. There’s a better way of understanding pain. Once we understand pain as a learning signal, not tissue damage, we can broaden the range of techniques available to help.&lt;/p></description></item></channel></rss>
+&lt;p>Most pain treatment follows a mechanical model: find the &amp;ldquo;broken&amp;rdquo; part and fix it. But modern neuroscience reveals that chronic pain is more like a software bug than a hardware problem - it&amp;rsquo;s often a miscalibrated prediction system, not tissue damage.&lt;/p></description></item></channel></rss>

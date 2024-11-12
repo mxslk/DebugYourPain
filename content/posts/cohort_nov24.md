@@ -23,51 +23,70 @@ Hardware vs software problem
 ---
 
 
-### How it works
+### Why This Works
+Most pain treatment follows a mechanical model: find the "broken" part and fix it. But modern neuroscience reveals that chronic pain is more like a software bug than a hardware problem - it's often a miscalibrated prediction system, not tissue damage.
 
-- Join a supportive cohort to move through a pain debugging protocol 
-- Meet 2-3x per week to learn, and practice established techniques for addressing pain
-- 1 on 1 guidance from Max or Tanner
+Key research backing this approach:
+
+- Ashar et al. (2022) demonstrated 67% recovery rate in chronic back pain patients after 4 weeks
+- Our pilot sessions have shown similar results across various pain conditions (RSI, chronic back pain, neck pain)
+- Built on established principles of the neuroscience of pain, predictive processing, and evolutionary biology
 
 
-The most popular approaches to pain are based on an outdated model of the body as a biomechanical machine. There’s a better way of understanding pain. Once we understand pain as a learning signal, not tissue damage, we can broaden the range of techniques available to help.
+### How It Works
 
-Ashar et al. (2022) demonstrated that 67% of chronic pain patients can effectively resolve their pain after just four weeks of instruction. We want to recreate and build on their result with a thoughtful social structure. 
+**Format**
+- 9 live sessions (3x week 1, 2x weeks 2-4)
+- Daily guided practice materials
+- 1:1 support as needed
+- Small cohort (max 9 participants)
+
+**Content**
+- Understanding: Map your pain patterns using tools from systems thinking and neuroscience
+- Processing: Evidence-based techniques for recalibrating pain responses
+- Integration: Practical strategies for maintaining progress under real-world conditions
 
 
 {{< hint info >}}
 ## **Prerequisites**
 
-- You know the [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_of_pain.md" >}}) and are intrigued by the [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}) and would like a more structured experience. 
+- [Suggested] You are familiar with our [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_of_pain.md" >}}) and are intrigued by the [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}}) and would like a more structured experience. 
 
-- You are grappling with wrist pain, backaches, or some form of persistent pain
+- You are grappling with wrist pain, backaches, or some form of persistent pain.
 
-- You are willing to put aside 1 hour per day for a month.
+- You are willing to put aside 1 hour per day for a month
 {{< /hint >}}
 
 
 Here's what one of our past clients says about going through our process:
 {{< youtube MC7A5CM5w6Y >}}
 
-More on what to expect:
-Nine sessions total (3 in the first week, then 2 each week afterwards). Sessions are all personally led by [Max Shen and Tanner Holman]({{< relref "/docs/main_posts/about.md" >}}). 
 
-The content fluctuates depending on your needs, but the core areas are:
+Ready to Debug Your Pain?
 
-1. Understanding your pain (integrating evolutionary biology and complexity into your biopsychosocial context)
+→ Register Interest [Here](https://tally.so/r/3xPeqy) (5 spots left)
 
-2. Processing patterns (refining interoceptive ability and the skill of internal attunement)
+→ [Schedule 15-min consultation](https://calendly.com/maxkshen/pain-debugging-course)
 
-3. Moving into life (using movement games to integrate our processing and learning to live without triggering old patterns)
+→ Email questions to max@processing-pain.com
 
 We have nine spaces and expect these to fill up in the next week. You can register interest [here](https://tally.so/r/3xPeqy).
 
 
 {{< button href="https://tally.so/r/3xPeqy" >}}**Register here**{{< /button >}}
 
-Note: We will always continue to open source our knowledge and practices. This intensive is about tailoring our knowledge to your situation.
+*Note: We will always continue to open source our knowledge and practices. This intensive provides structured implementation and personalized guidance on top of our public materials.*
 
-Uncertain? Send any questions to max@processing-pain.com Feel free to also book a 15-minute call [here](https://calendly.com/maxkshen/pain-debugging-course) and Tanner or Max will talk with you.
+--- 
+### Who are you?
+
+{{< figure src="/images/max_portrait.jpeg" alt="drawing" width="200" >}}
+Hi, I'm Max Shen. After experiencing debilitating RSI during my graduate work at MIT, I spent hundreds of hours researching pain science and eventually developed a systems approach to pain resolution. Now, as a pain researcher and certified Pain Reprocessing Therapy practitioner, I combine computational models with practical techniques to help others debug their chronic pain. My work draws from cognitive science, predictive processing, and direct experience helping dozens recover from persistent pain.
+
+{{< figure src="/images/tanner_portrait.jpg" alt="drawing" width="200" >}}
+I'm Tanner Holman, a movement specialist and physiotherapy student who recovered from chronic back pain by approaching it as a whole-system challenge rather than just a mechanical problem. I blend insights from predictive processing theory with innovative movement practices (Fighting Monkey, Feldenkrais) to help people rebuild trust with their bodies. My approach complements Max's technical framework with practical movement strategies for lasting pain relief.
+
+
 
 ### FAQ
 
