@@ -20,6 +20,8 @@ Full story: [Beyond the Wrist: Debugging RSI]({{< relref "/docs/main_posts/under
 
 Short summary: [Principles of Pain]({{< relref "/docs/main_posts/understand/principles_of_pain.md" >}})
 
+Just give me the evidence please: [Evidence Page]({{< relref "/docs/main_posts/understand/evidence.md" >}})
+
 {{< /hint >}}
 
 ## 2. Practice debugging pain

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Four Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Debug Your Pain</title><link>http://localhost:59624/</link><description>Recent content in Introduction on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:59624/index.xml" rel="self" type="application/rss+xml"/><item><title>Four Principles of Pain</title><link>http://localhost:59624/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
  Four Principles of Pain
  &lt;a class="anchor" href="#four-principles-of-pain">#&lt;/a>
 &lt;/h1>
@@ -10,9 +10,9 @@
 &lt;/h2>
 &lt;p>Most of us naively equate pain with tissue damage. The most common view is that pain is the body&amp;rsquo;s perception of damage.
 
-&lt;link rel="stylesheet" href="http://localhost:1313/katex/katex.min.css" />
-&lt;script defer src="http://localhost:1313/katex/katex.min.js">&lt;/script>
-&lt;script defer src="http://localhost:1313/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
+&lt;link rel="stylesheet" href="http://localhost:59624/katex/katex.min.css" />
+&lt;script defer src="http://localhost:59624/katex/katex.min.js">&lt;/script>
+&lt;script defer src="http://localhost:59624/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
  \[ \text{Tissue damage} \rightarrow \text{Pain receptors fire} \rightarrow \text{Experience of pain} \]
 &lt;/span>
 
@@ -24,7 +24,7 @@
  \[ \text{Tissue damage} \implies \text{Pain} \]
 &lt;/span>
 &lt;/p>
-&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
+&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:59624/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
  Beyond the Wrist: Debugging RSI
  &lt;a class="anchor" href="#beyond-the-wrist-debugging-rsi">#&lt;/a>
 &lt;/h1>
@@ -34,26 +34,26 @@
  &lt;strong>A fire burning&lt;/strong>
  &lt;a class="anchor" href="#a-fire-burning">#&lt;/a>
 &lt;/h2>
-&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Open Lab Hours</title><link>http://localhost:1313/docs/main_posts/events/lab_hours/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/events/lab_hours/</guid><description>&lt;h1 id="open-lab-hours">
+&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Open Lab Hours</title><link>http://localhost:59624/docs/main_posts/events/lab_hours/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/events/lab_hours/</guid><description>&lt;h1 id="open-lab-hours">
  &lt;strong>Open Lab hours&lt;/strong>
  &lt;a class="anchor" href="#open-lab-hours">#&lt;/a>
 &lt;/h1>
 &lt;p>Lab hours are a container for different experiments we want to run related pain. One session might be exploring a new theory of how awareness modulates pain. Another might be a new movement game we want to test.&lt;/p>
 &lt;p>We usually run these on Thursday, and will generally share via our newsletter and &lt;a href="https://x.com/mxslk">Twitter/X&lt;/a>&lt;/p>
-&lt;p>Consider staying up to date via &lt;a href="https://landing.processing-pain.com/sign_up">our newsletter&lt;/a>.&lt;/p></description></item><item><title>Pain Debugging Protocol</title><link>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/practice/pillars_of_practice/</guid><description>&lt;h1 id="pain-debugging-protocol">
+&lt;p>Consider staying up to date via &lt;a href="https://landing.processing-pain.com/sign_up">our newsletter&lt;/a>.&lt;/p></description></item><item><title>Pain Debugging Protocol</title><link>http://localhost:59624/docs/main_posts/practice/pillars_of_practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/practice/pillars_of_practice/</guid><description>&lt;h1 id="pain-debugging-protocol">
  Pain Debugging Protocol
  &lt;a class="anchor" href="#pain-debugging-protocol">#&lt;/a>
 &lt;/h1>
 &lt;p>&lt;em>Foundational skills for debugging pain.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;!-- raw HTML omitted -->
-&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:1313/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
+&lt;p>This page is about giving you a structure for debugging pain. Debugging pain is not unlike other forms of debugging&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. Although there are generally helpful rules of thumb, there is no perfect recipe that works for everyone. You will need to understand the architecture of the system. You will need to tinker, sometimes randomly, and pay close attention to how the system responds.&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:59624/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
  Evidence Page
  &lt;a class="anchor" href="#evidence-page">#&lt;/a>
 &lt;/h1>
 &lt;hr>
 &lt;p>&lt;em>This page collects a broad range of evidence about chronic pain, and how it can be resolved. It includes scientific papers but also individual case studies from real people.&lt;/em>&lt;/p>
-&lt;h2 id="hahahugoshortcode49s0hbhb">
+&lt;h2 id="hahahugoshortcode37s0hbhb">
  
 
 &lt;span style="background-color: #bf1f17;"> 
@@ -66,7 +66,7 @@
 &lt;/span>
 
 
- &lt;a class="anchor" href="#hahahugoshortcode49s0hbhb">#&lt;/a>
+ &lt;a class="anchor" href="#hahahugoshortcode37s0hbhb">#&lt;/a>
 &lt;/h2>
 &lt;h3 id="different-non-physical-therapies-can-permanently-relieve-pain">
  Different non-physical therapies can permanently relieve pain
@@ -74,18 +74,18 @@
 &lt;/h3>
 &lt;ul>
 &lt;li>
-&lt;p>People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. (&lt;a href="http://localhost:1313/docs/PRT_study.pdf">Ashar et al. 2021&lt;/a>)&lt;/p></description></item><item><title>About</title><link>http://localhost:1313/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/about/</guid><description>&lt;h1 id="about">
+&lt;p>People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. (&lt;a href="http://localhost:59624/docs/PRT_study.pdf">Ashar et al. 2021&lt;/a>)&lt;/p></description></item><item><title>About</title><link>http://localhost:59624/docs/main_posts/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/about/</guid><description>&lt;h1 id="about">
  About
  &lt;a class="anchor" href="#about">#&lt;/a>
 &lt;/h1>
 &lt;p>Hi, I&amp;rsquo;m Max Shen, the creator of DebugYourPain.org.&lt;/p>
 &lt;p>I built this site because it took me hundreds of hours of careful searching to find the information that helped me resolve my chronic pain. This site is what I wish I had at the start of my experience with pain.&lt;/p>
-&lt;p>I&amp;rsquo;ve got two degrees from MIT and have worked at both &lt;a href="https://cushmanlab.fas.harvard.edu/">Moral Psychology Research Lab&lt;/a> at Harvard, and the &lt;a href="https://cocosci.mit.edu/">Computational Cognitive Science Lab&lt;/a> at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:1313/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
+&lt;p>I&amp;rsquo;ve got two degrees from MIT and have worked at both &lt;a href="https://cushmanlab.fas.harvard.edu/">Moral Psychology Research Lab&lt;/a> at Harvard, and the &lt;a href="https://cocosci.mit.edu/">Computational Cognitive Science Lab&lt;/a> at MIT. After experiencing extensive chronic pain during my graduate program, my focus shifted to understanding and ultimately resolving my pain.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:59624/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:59624/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h2>
 &lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
-&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>http://localhost:1313/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
+&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>http://localhost:59624/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>http://localhost:59624/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
  Move static content to &lt;code>static&lt;/code>
  &lt;a class="anchor" href="#move-static-content-to-static">#&lt;/a>
 &lt;/h2>
@@ -101,14 +101,14 @@ With Jekyll, something that looked like&lt;/p>
  ▾ images/
  logo.png
 &lt;/code>&lt;/pre>
-&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>http://localhost:1313/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
+&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>http://localhost:59624/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:59624/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in Go templates.&lt;/p>
 &lt;p>This document is a brief primer on using Go templates. The &lt;a href="https://golang.org/pkg/html/template/">Go docs&lt;/a>
-provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>http://localhost:1313/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
+provide more details.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>http://localhost:59624/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:59624/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
  Step 1. Install Hugo
  &lt;a class="anchor" href="#step-1-install-hugo">#&lt;/a>
 &lt;/h2>
@@ -122,7 +122,7 @@ appropriate version for your OS and architecture.&lt;/p>
 &lt;/h2>
 &lt;p>Hugo has its own example site which happens to also be the documentation site
 you are reading right now.&lt;/p>
-&lt;p>Follow the following steps:&lt;/p></description></item><item><title>◑ Pain Debugging Intensive</title><link>http://localhost:1313/posts/cohort_nov24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/cohort_nov24/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>Follow the following steps:&lt;/p></description></item><item><title>◑ Pain Debugging Intensive</title><link>http://localhost:59624/posts/cohort_nov24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/posts/cohort_nov24/</guid><description>&lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;p>&lt;strong>A 30 day intensive to debug your pain.&lt;/strong> Go from stuck and frustrated in pain to light and moving freely with a supportive cohort.&lt;/p>
 &lt;p>🗓 1 month. November 16th - December 14th, 2024&lt;/p>
