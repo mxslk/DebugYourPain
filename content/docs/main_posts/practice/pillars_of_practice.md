@@ -78,7 +78,7 @@ Interoception is the ability to notice internal sensations. Getting better at in
 
 - *Feeling emotions*.
 As we've mentioned, pain has a cognitive, an emotional, and a sensation component. The emotional component of chronic pain is often highly charged when emotions are repressed for a long period of time. Unfortunately, most of the time it is very difficult to know to what extent you are inhibiting your emotions. One very helpful set of practices involves stopping resistance to unpleasant emotions.
-This can be done through targeted writing prompts[^2], guided awareness exercises, or just sitting there and feeling. [Ref. JournalSpeak Paulina Soble, Mindbody workbook Schechter] You might also consider working with a skilled therapist or coach[^3].
+This can be done through targeted writing prompts[^2], guided awareness exercises, or just sitting there and feeling. You might also consider working with a skilled therapist or coach[^3].
 
 <!-- - *Leaning into pleasure* -->
 
@@ -112,6 +112,6 @@ There are many guides to pain and many different practices for resolving pain. W
 
 
 [^1]: A large enough codebase, like the human being, also has the properties of a complex system.
-[^2]: Nichole Sachs' [JournalSpeak](https://www.yourbreakawake.com/journalspeak) and Kevin Viner's [The Mindbody Syndrome: A Path to Recovery and Freedom](https://www.amazon.com/MINDBODY-SYNDROME-TMS-Recovery-Freedom/dp/B085RNKS75/) have good exercises.
+[^2]: The developer Josh Comeau told me that this was the key practice that helped him recover. Nichole Sachs' [JournalSpeak](https://www.yourbreakawake.com/journalspeak) and Kevin Viner's [The Mindbody Syndrome: A Path to Recovery and Freedom](https://www.amazon.com/MINDBODY-SYNDROME-TMS-Recovery-Freedom/dp/B085RNKS75/) have good exercises. If you want a simple exercise now, just try making an unfiltered list of stressors in your life (take 20 minutes). Then, the next day, picking only one stressor, set a timer for 20 minutes and write while paying attention to what you're feeling, keeping your pen moving on the page (don't filter).
 
 [^3]:  There is very high variance in terms of the effectiveness of the practitioner, so it may take time to find the right fit. We've found good practitioners associated with Pain Reprocessing Therapy and Coherence Therapy, and we (Max and Tanner) also work with people.

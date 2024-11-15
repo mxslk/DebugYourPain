@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Understand on Debug Your Pain</title><link>http://localhost:1313/docs/main_posts/understand/</link><description>Recent content in Understand on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/main_posts/understand/index.xml" rel="self" type="application/rss+xml"/><item><title>Four Principles of Pain</title><link>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Understand on Debug Your Pain</title><link>http://localhost:59624/docs/main_posts/understand/</link><description>Recent content in Understand on Debug Your Pain</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:59624/docs/main_posts/understand/index.xml" rel="self" type="application/rss+xml"/><item><title>Four Principles of Pain</title><link>http://localhost:59624/docs/main_posts/understand/principles_of_pain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/principles_of_pain/</guid><description>&lt;h1 id="four-principles-of-pain">
  Four Principles of Pain
  &lt;a class="anchor" href="#four-principles-of-pain">#&lt;/a>
 &lt;/h1>
@@ -10,9 +10,9 @@
 &lt;/h2>
 &lt;p>Most of us naively equate pain with tissue damage. The most common view is that pain is the body&amp;rsquo;s perception of damage.
 
-&lt;link rel="stylesheet" href="http://localhost:1313/katex/katex.min.css" />
-&lt;script defer src="http://localhost:1313/katex/katex.min.js">&lt;/script>
-&lt;script defer src="http://localhost:1313/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
+&lt;link rel="stylesheet" href="http://localhost:59624/katex/katex.min.css" />
+&lt;script defer src="http://localhost:59624/katex/katex.min.js">&lt;/script>
+&lt;script defer src="http://localhost:59624/katex/auto-render.min.js" onload="renderMathInElement(document.body);">&lt;/script>&lt;span>
  \[ \text{Tissue damage} \rightarrow \text{Pain receptors fire} \rightarrow \text{Experience of pain} \]
 &lt;/span>
 
@@ -24,7 +24,7 @@
  \[ \text{Tissue damage} \implies \text{Pain} \]
 &lt;/span>
 &lt;/p>
-&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
+&lt;p>This is why if you go into a doctor&amp;rsquo;s office reporting back pain, they will often image your spine for abnormalities (e.g. herniated disk or spinal stenosis)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>. They can then attempt try to fix these abnormalities via surgery or, failing that, give you painkillers to manage the pain.&lt;/p></description></item><item><title>Beyond the Wrist: Debugging RSI</title><link>http://localhost:59624/docs/main_posts/understand/debugging_rsi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/debugging_rsi/</guid><description>&lt;h1 id="beyond-the-wrist-debugging-rsi">
  Beyond the Wrist: Debugging RSI
  &lt;a class="anchor" href="#beyond-the-wrist-debugging-rsi">#&lt;/a>
 &lt;/h1>
@@ -34,13 +34,13 @@
  &lt;strong>A fire burning&lt;/strong>
  &lt;a class="anchor" href="#a-fire-burning">#&lt;/a>
 &lt;/h2>
-&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:1313/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
+&lt;p>I am about to give up. My eyes are bleary after four days of staring at numpy arrays. I want to smash my keyboard and throw it out into the snow, but I have promised myself that I will fix this bug by the end of the week.&lt;/p></description></item><item><title>Evidence</title><link>http://localhost:59624/docs/main_posts/understand/evidence/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:59624/docs/main_posts/understand/evidence/</guid><description>&lt;h1 id="evidence-page">
  Evidence Page
  &lt;a class="anchor" href="#evidence-page">#&lt;/a>
 &lt;/h1>
 &lt;hr>
 &lt;p>&lt;em>This page collects a broad range of evidence about chronic pain, and how it can be resolved. It includes scientific papers but also individual case studies from real people.&lt;/em>&lt;/p>
-&lt;h2 id="hahahugoshortcode12s0hbhb">
+&lt;h2 id="hahahugoshortcode11s0hbhb">
  
 
 &lt;span style="background-color: #bf1f17;"> 
@@ -53,7 +53,7 @@
 &lt;/span>
 
 
- &lt;a class="anchor" href="#hahahugoshortcode12s0hbhb">#&lt;/a>
+ &lt;a class="anchor" href="#hahahugoshortcode11s0hbhb">#&lt;/a>
 &lt;/h2>
 &lt;h3 id="different-non-physical-therapies-can-permanently-relieve-pain">
  Different non-physical therapies can permanently relieve pain

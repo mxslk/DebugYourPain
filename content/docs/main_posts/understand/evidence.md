@@ -18,7 +18,7 @@ draft: false
 
 ### Different non-physical therapies can permanently relieve pain
 
-- People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. ([Ashar et al. 2021](https://watermark.silverchair.com/jamapsychiatry_ashar_2021_oi_210060_1640022091.64193.pdf))
+- People with chronic back pain (median ~10 years) experienced major reduction from education and sensory recalibration practices (5/10 pain to 0.5/10). Treatment took 4 weeks of treatment and effects persisted after the 1 year follow up. ([Ashar et al. 2021](/docs/PRT_study.pdf))
 
 - Psychophysiologic symptom relief therapy (PSRT) similarly shown to eliminate chronic pain in 64% of the participants in a pilot RCT at Harvard Medical School ([Donnino et al., 2021](https://journals.lww.com/painrpts/fulltext/2021/09000/Psychophysiologic_symptom_relief_therapy_for.13.aspx))
 
