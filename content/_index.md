@@ -39,7 +39,7 @@ Other people can provide helpful support in this process.
 
 To hear about workshops and new resources, [join the mailing list](https://landing.processing-pain.com/sign_up) or check out our [events]({{< relref "/docs/main_posts/events/lab_hours.md" >}}).
 
- **We are also running an experimental [pain debugging intensive]({{< relref "/posts/cohort_nov24.md" >}}) in November 2024.**
+ **We are also running an experimental [pain debugging intensive]({{< relref "/posts/cohort_nov24.md" >}}) starting mid-January 2025.**
 
 
 

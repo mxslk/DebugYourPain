@@ -14,9 +14,9 @@ Hardware vs software problem
 
 **A 30 day intensive to debug your pain.** Go from stuck and frustrated in pain to light and moving freely with a supportive cohort.
 
-🗓 1 month. November 16th - December 14th, 2024
+🗓 1 month. Starting mid-Jan
 
-🗺 Location: Online (register interest [here](https://tally.so/r/3xPeqy)). Space limited.
+🗺 Location: Online (register interest [here](https://tally.so/r/wk0xlR)). Space limited.
 
 💰 $Pay if results (see FAQ)
 
@@ -39,7 +39,7 @@ Key research backing this approach:
 - 9 live sessions (3x week 1, 2x weeks 2-4)
 - Daily guided practice materials
 - 1:1 support as needed
-- Small cohort (max 9 participants)
+- Small cohort 
 
 **Content**
 - Understanding: Map your pain patterns using tools from systems thinking and neuroscience
@@ -70,10 +70,10 @@ Ready to Debug Your Pain?
 
 → Email questions to max@processing-pain.com
 
-We have nine spaces and expect these to fill up in the next week. You can register interest [here](https://tally.so/r/3xPeqy).
+You can register interest [here](https://tally.so/r/wk0xlR).
 
 
-{{< button href="https://tally.so/r/3xPeqy" >}}**Register here**{{< /button >}}
+{{< button href="https://tally.so/r/wk0xlR" >}}**Register here**{{< /button >}}
 
 *Note: We will always continue to open source our knowledge and practices. This intensive provides structured implementation and personalized guidance on top of our public materials.*
 
