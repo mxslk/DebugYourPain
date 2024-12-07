@@ -26,6 +26,35 @@ Nevertheless, even for people who have clearly associated tissue damage, this pr
 
 {{< /hint >}}
 
+In our experience, pain recovery can be split into seven capacities. If you are able to get to the seventh stage, you will have been able to resolve your pain — though it is not strictly necessary. Many people after just the first or second stages are able to resolve their pain.
+
+Our approach is built on three stages: Understanding, Processing, and Integrating.
+
+The 7 steps of this linear model fit neatly inside each pillar. Here's the model:
+
+#### Understanding
+1. Intellectual Understanding: This is propositional knowledge about the complexity of pain. You may be able to explain it intellectually, but there’s no felt shift in perspective.
+
+2. Internalization: You realize that "pain is not from damage" is not just some fact, but very concretely about *you* in *your body, right now*.
+
+#### Processing
+3. Settling the Nervous System: Coming to recognize internal peace, even when there may be remaining pain or sensation.
+
+4. Sensing the Fluid Component of Pain: Becoming more familiar and comfortable with the experience of pain.
+
+5. Unburdening: Finding residual obstacles to feeling pain. Noticing emotional responses and allowing them to be felt.
+
+
+#### Integrating
+6. Fluidity through Gentle Movement: Encouraging movement that feels easeful and nourishing.
+
+7. Expansive Physical Activity: Rebuilding confidence and joy in movement.
+
+
+What is the actual protocol? 
+
+
+
 ## 0. Set up your environment
 
 This is about preparing a space for the work to happen. It includes both your internal environment (your mindset) as well as your physical environment (your workspace) and your habits.
@@ -96,7 +125,7 @@ You do not need all of these skills to resolve pain. Many people find significan
 
 We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
 
-This November, we are running small cohorts to implement the pain debugging protocol in their lives. There's room for 9 people. Read more [here]({{< relref "/posts/cohort_nov24.md" >}}).
+We also run monthly cohorts of small groups to come together and debug their pain. You'll get an email for the next cohort if you sign up [here](https://landing.processing-pain.com/sign_up) 
 
 <!-- We are also running events! See when our next cohort opens up. -->
 
