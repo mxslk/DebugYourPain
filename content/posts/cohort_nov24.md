@@ -14,11 +14,11 @@ Hardware vs software problem
 
 **A 30 day intensive to debug your pain.** Go from stuck and frustrated in pain to light and moving freely with a supportive cohort.
 
-🗓 1 month. Starting mid-Jan
+🗓 1 month. Starting Jan 25
 
 🗺 Location: Online (register interest [here](https://tally.so/r/wk0xlR)). Space limited.
 
-💰 $Pay if results (see FAQ)
+💰 $450 (scholarships available)
 
 ---
 
@@ -72,6 +72,7 @@ Ready to Debug Your Pain?
 
 You can register interest [here](https://tally.so/r/wk0xlR).
 
+> "As a result of the course I've experienced a significant reduction in my chronic neck pain. I've also become far more comfortable with my interior life and experience less resistance settling into mindfulness practices. Max and Tanner are generous-spirited teachers who are genuinely invested in their student's quality of life. They bring care and a community ethos to support the sometimes emotionally fraught work of pain reprocessing." - Zoe Fahy
 
 {{< button href="https://tally.so/r/wk0xlR" >}}**Register here**{{< /button >}}
 
@@ -90,16 +91,6 @@ I'm Tanner Holman, a movement specialist and physiotherapy student who recovered
 
 ### FAQ
 
-*Q: Pay only for results?*
-
-How it works: 
-1. You decide upfront how much you'd happily pay us if our course resulted in your pain significantly decreasing.
-2. If we think you're a good fit, we ask you for a small refundable deposit ($60) to confirm your spot. (This signals commitment to us and yourself).
-3. At the end of the course, we send you back your deposit. If you feel like your pain significantly decreased, you pay us the amount, otherwise, it's free.
-
-We're confident that this works, and want to put our skin in the game.
-
-Most courses will charge upfront, but fail to deliver to everyone. Once the client has paid, there's less incentive to keep them happy. We think this payment mechanism better aligns us and our clients because i) clients set reasonable prices before knowing the outcome, and ii) we will be paid only if the client is satisfied.
 
 
 *Q: Why a whole hour per day?*
