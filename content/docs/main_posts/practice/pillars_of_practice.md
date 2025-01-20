@@ -123,10 +123,8 @@ You do not need all of these skills to resolve pain. Many people find significan
 
 *For those who'd enjoy more structure*
 
-We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
+We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. You'll get them when you sign up for our mailing list [here](https://landing.processing-pain.com/sign_up). 
 
-
-<!-- We are also running events! See when our next cohort opens up. -->
 
 *Additional resources*
 
@@ -136,7 +134,7 @@ There are many guides to pain and many different practices for resolving pain. W
 - Pain Reprocessing Therapy's [The Way Out](https://www.amazon.com/Way-Out-Revolutionary-Scientifically-Approach/dp/059308683X&ved=2ahUKEwjXjKT4y_eIAxWoLzQIHfqTCMQQFnoECEUQAQ&usg=AOvVaw0YOIYV8HlwDINNBGLPi71I)
 - Shinzen Young's [Break Through Pain](https://www.amazon.com/Break-Through-Pain-Step-Step/dp/B001CB6A0A)
 
-
+If you that would like personalized support, we also offer [one-on-one coaching](https://tally.so/forms/w71AAP/edit).
 
 
 [^1]: A large enough codebase, like the human being, also has the properties of a complex system.

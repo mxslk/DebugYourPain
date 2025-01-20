@@ -28,15 +28,13 @@ Pain is not damage. It is a signal for protective action. Grasping a more accura
 Like untangling a codebase, debugging pain well requires a set of skills. You can learn these.
 
 
-See [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}})
+**Do it yourself with the [Pain Debugging Protocol]({{< relref "/docs/main_posts/practice/pillars_of_practice.md" >}})**. If you'd like support, [we can also help](https://www.debugyourpain.org/docs/main_posts/about/).
 
 
 
-## 3. Find support
+## 3. Learn more
 
-Other people can provide helpful support in this process.
-
-To hear about workshops and new resources, [join the mailing list](https://landing.processing-pain.com/sign_up).
+To hear about workshops, essays, and infinite joy, [join the mailing list](https://landing.processing-pain.com/sign_up).
 
 
 
