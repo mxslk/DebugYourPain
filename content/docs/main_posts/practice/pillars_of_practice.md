@@ -17,14 +17,14 @@ This page is about giving you a structure for debugging pain. Debugging pain is 
 This protocol brings together a few high leverage principles that have been helpful in our own experience and our experience in helping others. It distills principles common to many techniques that aim to address pain and thus 'sits atop' them. We encourage you to view this as a meta-protocol that informs how you go about trying more specific practices, whether that be Pain Reprocessing Therapy or Qigong.
 
 
-{{< hint warning >}}
+---
 ### Rule out structural damage before you begin
 
 Prior to beginning this protocol, it's important to consider whether your condition might be closely linked to tissue damage. Although the majority of chronic pain is not directly linked to tissue damage, you may be in the minority of cases where a structural intervention is the most helpful (for instance, inflammatory pain associated with a cancerous tumor). It is very valuable to consider the doctor's assessment in light of your own hypothesis. You can combine this with the [assessment criteria](https://www.painreprocessingtherapy.com/wp-content/uploads/2021/08/Appendix-Assessing-for-Neuroplastic-Pain.pdf) used in Pain Reprocessing Therapy.
 
 Nevertheless, even for people who have clearly associated tissue damage, this protocol should be helpful in association with other forms of treatment.
 
-{{< /hint >}}
+---
 
 In our experience, pain recovery can be split into seven capacities. If you are able to get to the seventh stage, you will have been able to resolve your pain — though it is not strictly necessary. Many people after just the first or second stages are able to resolve their pain.
 
@@ -125,7 +125,6 @@ You do not need all of these skills to resolve pain. Many people find significan
 
 We've put together a set of free self-guided practices. They walk you through the different stages of the protocol and give you much room to improvise and create your own version. Just check the box in the form [here](https://landing.processing-pain.com/sign_up). 
 
-We also run monthly cohorts of small groups to come together and debug their pain. You'll get an email for the next cohort if you sign up [here](https://landing.processing-pain.com/sign_up) 
 
 <!-- We are also running events! See when our next cohort opens up. -->
 
