@@ -1,6 +1,6 @@
 ---
 title: "Month Intensive"
 weight: 5
-draft: false
+draft: true
 bookHref: "/posts/cohort_nov24"
 ---

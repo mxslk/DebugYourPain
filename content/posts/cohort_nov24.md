@@ -1,6 +1,6 @@
 +++
 title = "◑ Pain Debugging Intensive"
-
+draft = true
 menu = "main"
 +++
 
