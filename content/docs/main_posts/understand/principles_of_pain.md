@@ -174,11 +174,11 @@ If you want to jump right into working with pain, go to [Pain Debugging Protocol
 
 [^3]: E.g. "‘To anyone looking at me, I have no arm. But I can feel the entirety of my phantom hand and arm. Imagine you are wearing an elbow length evening glove … everywhere the glove touches your skin it’s crushing your arm constantly. … On top of it you get pains like burning pains. It’s like when you burn yourself on the grill. Your instinct is to pull your hand away, but with this pain you can’t. It's a nerve sensation and it stays there, until “it” decides to pull away’." Makin, Tamar R. "Phantom limb pain: thinking outside the (mirror) box." Brain 144.7 (2021): 1929-1932.
 
-[^4]: See https://www.who.int/news-room/fact-sheets/detail/low-back-pain; They estimate 90% of the reported 619 million of people with lower back pain have nonspecific back pain. 550 million is probably an underestimate.
+[^4]: See https://www.who.int/news-room/fact-sheets/detail/low-back-pain They estimate 90% of the reported 619 million of people with lower back pain have nonspecific back pain. 550 million is probably an underestimate.
 
 [^5]: See Clauw, Daniel J. "Fibromyalgia: a clinical review." Jama 311.15 (2014): 1547-1555.
 
 [^6]: See Smith, E. S., & Lewin, G. R. (2009). Nociceptors: a phylogenetic view. Journal of Comparative Physiology A, 195(12), 1089-1106.
 
-[^7]: RCT examples: Ashar, Yoni K., et al. "Effect of pain reprocessing therapy vs placebo and usual care for patients with chronic back pain: a randomized clinical trial." JAMA psychiatry 79.1 (2022): 13-23.; Donnino, Michael W., et al. "Psychophysiologic symptom relief therapy for chronic back pain: a pilot randomized controlled trial." Pain Reports 6.3 (2021): e959. Anecdotes: Patrick Collison: https://x.com/patrickc/status/1559737765566173185;Aaron Iba: https://aaroniba.net/how-i-cured-my-rsi-pain; Josh Comeau: https://x.com/JoshWComeau/status/1379438688602570753; People have cured their pain just by reading Amazon reviews of Sarno’s book: https://x.com/visakanv/status/1652574276531412992
+[^7]: RCT examples: Ashar, Yoni K., et al. "Effect of pain reprocessing therapy vs placebo and usual care for patients with chronic back pain: a randomized clinical trial." JAMA psychiatry 79.1 (2022): 13-23.; Donnino, Michael W., et al. "Psychophysiologic symptom relief therapy for chronic back pain: a pilot randomized controlled trial." Pain Reports 6.3 (2021): e959. Anecdotes: Patrick Collison: https://x.com/patrickc/status/1559737765566173185, Aaron Iba: https://aaroniba.net/how-i-cured-my-rsi-pain, Josh Comeau: https://x.com/JoshWComeau/status/1379438688602570753, People have cured their pain just by reading Amazon reviews of Sarno’s book: https://x.com/visakanv/status/1652574276531412992
 
