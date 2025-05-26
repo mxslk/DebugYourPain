@@ -192,7 +192,7 @@ Since my recovery, it's become clearer to me that processing your own pain is a 
  
 Continue reading at [Pain Debugging Protocol]({{< relref "../practice/pillars_of_practice.md" >}})
 
-To get occasional essays on pain debugging, you can also join our [mailing list](debugyourpain.substack.com).
+To get occasional essays on pain debugging, you can also join our [mailing list](https://debugyourpain.substack.com).
 
 
 
